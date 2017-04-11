@@ -1,0 +1,103 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+</head><style>
+
+table.outside{
+	
+	font-size:12px;
+	padding:0px;
+	}
+
+td.tdoutside{
+	color:#FFFFFF;
+	font-weight:bold;
+    text-align:center;
+    padding-top:3px;
+	padding-bottom:0px;
+	
+	}
+td.tdinside{
+	padding:0px 1px 4px 1px;
+	
+	}
+
+table.inside{
+	
+	 width:269px;
+	 font-size:12px;
+	 padding:0px;
+	 margin:0px;
+	
+	
+	}
+
+td.tdinside{
+	
+   padding:7px 0px 7px 10px;
+   background-color:#FFD455;
+  
+	}
+form{
+	
+	margin:0px; padding:0px;
+	}
+
+input{
+font-size:12px;	
+	
+	}
+
+
+a{
+	
+ color:#0000000；
+ text-dexoration:underline;	
+	
+	
+	
+	}
+
+</style>
+
+<body>
+  <table class="outside">
+  
+  <tr><td class="title">热情调查</td></tr>
+  <tr>
+     <td class="tdoutside">
+       <form method="post">
+          <table class="inside" cellspacing="0">
+            <tr><td class="tdinside">
+            
+            2015年初您最喜欢看以下那部电视剧？<br >
+            
+            <input type="radio" name="cc" />《何以笙箫默》<br />
+            <input type="radio" name="cc" />《武媚娘传奇》<br />
+            <input type="radio" name="cc" />《锦绣缘华丽冒险》<br />
+            <input type="radio" name="cc" />《平凡的世界》
+            <input type="radio" name="cc" />《长大》<br />
+            
+            <input type="submit" value="提交" />
+            <input type="button" name="viewresult" value="查看" />
+            
+         <a href="#">新浪-最喜爱电影剧评选</a>
+            
+            
+            
+            
+            
+            
+            
+            
+            </td></tr>
+  
+  
+  </table></form></td></tr>
+  
+  
+  </table>
+     
+  
+</body>
+</html>
